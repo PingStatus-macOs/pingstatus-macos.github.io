@@ -1,0 +1,1 @@
+# pingstatus-macos.github.io
